@@ -241,7 +241,7 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: KPMG | AI-Powered Proposal Finder
+      - title: 클라썸(Telta AI) | Telta InterviewPro - 채용 면접 AI 도구 제품 기획 
         tagline: | 
             We developed an AI-powered service designed to address one of the most time-consuming challenges for consultants&#58; searching for relevant past project proposals.  
             Traditionally, identifying suitable reference proposals requires extensive manual effort and deep domain knowledge. 
@@ -253,13 +253,12 @@ projects:
             -  [<u>[PPT] Proposal Finder</u>](https://docs.google.com/presentation/d/1YAyXTaLoV815kN1sZLOn-EsjW1k47U3bsgT-ozFo6RU/edit?usp=sharing)
             -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1sJWRashkAzDcTzvTsVQPIFfiLDoYD5YK/view?usp=sharing)
             
-      - title: KPMG | Kbank Loan & Deposit Automation System
+      - title: KPMG | 국내 최대 공기업 리더십 역량 진단 프로젝트 
         tagline: | 
-            In banking operations, reviewing documents for lending and deposit decisions is complex and time-consuming.
-            Institutions must examine corporate bylaws, terms, and authorization documents to assess eligibility and collateral.
-            We developed an AI-powered automation system that streamlines the entire review workflow for lending and deposit operations.
-            By simply uploading key documents such as corporate bylaws, the system automatically identifies required review items, analyzes document content, and generates structured evaluation results.
-            Leveraging advanced document understanding and LLM-based reasoning, it reduces manual effort, accelerates decision-making, and ensures consistent, scalable review quality.
+            기존에는 코치(사람) 중심의 평가에 의존해 객관성이 부족했음. 채점자 주관에 따른 편차가 컸고, 직급별 점수 구간 기준이 모호해 정확한 평가에 한계가 있었음. 
+            이를 해결하기 위해 7개 직급 × 4개 루브릭 체계로 총 28개 루브릭을 고도화함. HR 전문가가 설계한 평가 행동 기준 루브릭 초안을 기반으로, 직급별 난이도 차별화를 위해 관련 논문 및 리더십 이론을 추가 리서치하고 반영함. AI 모델 간 평가 결과 편차를 통계적으로 실험·검증하여 최종 약 5만 줄 규모의 채점 루브릭을 완성했고, 루브릭 생성 로직 자체를 데이터 파이프라인과 연계해 자동화함. 
+            또한 n8n 기반 자동화 파이프라인을 구축해 50명 규모 리포트가 5분 내 생성되도록 처리 속도를 단축했음. 진단 결과를 누적 DB화하여 시계열 데이터로 관리할 수 있도록 구조를 설계했고, 이를 기반으로 한 대시보드를 직접 제작해 제품에 탑재함. 
+            그 결과 누적 300명 이상의 진단과 2,000부의 리포트를 오류 없이 딜리버리했고, 이 신뢰를 바탕으로 월 누적 1천만 원 이상, 연간 누적 N억 원 이상의 리커링 계약으로 확장됨. 고객사 본사에서 대표 및 텔타 팀을 초빙해 강연을 요청했으며, 타 부서로도 추천이 이어져 현재까지 프로젝트가 지속·확장되고 있음.
         details: |
             -  [<u>[PPT] Loan & Deposit Automation</u>](https://docs.google.com/presentation/d/1ulW8rp6r0cwi53zuq8z1lZzt6RSuGmO2fMTYGVbKp7o/edit?usp=sharing)
             -  [<u>[Video] Loan</u>](https://drive.google.com/file/d/1OQrUU2ZelCIXTgz-TSkG3dcXsdsVPSH6/view?usp=sharing)
