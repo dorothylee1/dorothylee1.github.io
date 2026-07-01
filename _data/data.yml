@@ -110,6 +110,9 @@ studies:
 career-profile:
     title: Welcome to Shin Hyung's page
     summary: |
+      학부에서 경영학과 커뮤니케이션을 복수전공하고, <a href="https://btm.kaist.ac.kr/"><u>KAIST 기술경영대학원</u></a>에서  <a href="https://sites.google.com/view/q-marketinglab/"><u>퀀트 마케팅(Quantitative Marketing)</u></a>을 전공했습니다. 퀀트 마케팅은 시장을 데이터 기반으로 분석·모델링하여 비즈니스 임팩트를 예측하는 학문으로, 이 과정에서 데이터 기반 의사결정과 비즈니스 문제 해결에 깊은 관심을 갖게 되었습니다.
+      졸업 후에는 <a href="https://www.kakaocorp.com/page/"><u>카카오</u></a> <a href="https://brunch.co.kr/@kakao-it"><u>정책팀 Researcher</u></a>로 근무하며, 대형 플랫폼 기업에서 다양한 이해관계자와 협업하고 복잡한 이슈를 구조화해 해결하는 경험을 쌓았습니다. 거시적인 기술·사업 트렌드를 살피는 과정에서 "AI는 단순한 기술이 아니라 업무 프로세스를 근본적으로 바꾸는 도구"라는 확신이 생겼고, 이를 실제 현장에서 직접 구현하고자 CLASSUM에 합류했습니다.
+      
       I completed an M.S. at the <a href="https://gsds.kaist.ac.kr/eng"><u>Graduate School of Data Science</u></a> at KAIST, where I had the privilege of working in the <a href="https://ic.kaist.ac.kr/"><u>Interactive Computing Lab</u></a> under the mentorship of <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ"><u>Prof. Uichin Lee</u></a>. 
       My master's research centered on predicting human emotions through audio and physiological signals, with a particular focus on how data from conversation partners can enhance the accuracy of emotion predictions for speakers during naturalistic interactions.      
       <p>Previously, I worked as a machine learning engineer at <a href="http://www.okestro.com/"><u>Okestro</u></a>, where I specialized in Natural Language Processing (NLP). Our team was dedicated to automating corporate 
