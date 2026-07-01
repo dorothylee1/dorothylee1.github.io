@@ -244,15 +244,14 @@ projects:
     assignments:
       - title: 클라썸(Telta AI) | Telta InterviewPro - 채용 면접 AI 도구 제품 기획 및 리포트 자동화 구현 
         tagline: | 
-            We developed an AI-powered service designed to address one of the most time-consuming challenges for consultants&#58; searching for relevant past project proposals.  
-            Traditionally, identifying suitable reference proposals requires extensive manual effort and deep domain knowledge. 
-            Proposal Finder transforms this process by enabling natural language search, allowing users to describe their needs intuitively.  
-            Leveraging advanced query rewriting and tagging-based search technologies, the system refines user input into optimized search queries and matches them against a structured proposal database. 
-            This enables rapid discovery of highly relevant proposals, even when exact keywords are not provided.  
-            As a result, consultants can significantly reduce time spent on research, improve proposal quality through better references, and focus more on high-value strategic work rather than manual document retrieval.
+            역량 진단 프로젝트 운영 과정에서 축적된 루브릭 자산과 AI 채점 노하우가 채용 인터뷰 영역에도 적용 가능하다고 판단했음. 사업개발팀과의 협업을 통해 채용 인터뷰 AI 진단 도구로서의 제품 방향성을 수립하고, PRD를 직접 작성하여 제품 기획을 주도했음.
+            제품 설계의 핵심은 채용 현장의 특수성을 반영하는 것이었음. 녹음 파일이 서버에 남는 것을 꺼리는 고객사의 니즈를 반영하여 음성은 저장하지 않고 실시간 STT로 텍스트만 처리하는 방식을 설계했으며, 인터뷰 종료 후 15분 이내 리포트 자동 생성을 목표 기준으로 설정했음. 파이프라인은 실시간 STT → LLM 기반 화자 분리 → 루브릭 채점 → 결과 JSON 전처리 → HTML 리포트 렌더링 → PDF 변환 순으로 구성했음.
+            리포트 자동화 파이프라인은 사내 최초로 n8n 기반으로 직접 구축했음. 제품 API 연동 노드를 연결하고 채점 결과를 HTML 리포트로 렌더링하는 전 과정을 설계하여, 면접 종료 후 사용자가 리포트를 요청하면 5분 내에 리포트가 생성·전달되는 구조를 구현했음. 이 파이프라인은 현재 상용 서비스에 적용되어 운영 중임.
+            기획한 프로토타입은 팀 내 검토를 거쳐 정식 상용 제품으로 전환됐으며, 출시 한 달 만에 가입자 200명을 돌파했음. 이후 팀 플래닝, 내부 리포트 자동화 등 후속 제품 기획에도 참여했으며, n8n 기반 파이프라인 구조는 이후 다수 프로젝트의 자동화 표준으로 활용됐음.
+            
         details: |
-            -  [<u>[PPT] Proposal Finder</u>](https://docs.google.com/presentation/d/1YAyXTaLoV815kN1sZLOn-EsjW1k47U3bsgT-ozFo6RU/edit?usp=sharing)
-            -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1sJWRashkAzDcTzvTsVQPIFfiLDoYD5YK/view?usp=sharing)
+            -  [<u>Telta InterviewPro 제품</u>](https://interviewpro.telta.ai)
+            -  [<u>Telta InterviewPro 소개 페이지</u>](https://www.telta.ai/interview-pro)
             
       - title: 클라썸(Telta AI) | 국내 최대 공기업 리더십 역량 진단 프로젝트 운영 및 자동화
         tagline: | 
@@ -287,7 +286,7 @@ projects:
             -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1DBh1nAKNEMjz775tiS9NVCkE1KxLooSD/view?usp=drive_link)
             -  [<u>[Article]<i> KPMG Launches AI-Based Smart Information Security Disclosure Automation Platform</i></u>](https://www.datanet.co.kr/news/articleView.html?idxno=201925)
 
-      - title: 클라썸(Telta AI) | 국내 대기업 그룹 연수원 - 신임 임원 역량 진단
+      - title: 클라썸(Telta AI) | 국내 대기업 그룹 연수원 - 신임 임원 역량 진단 운영 및 자동화
         tagline: | 
             신임 임원을 대상으로 한 진단은 평가 결과가 그룹 인사 의사결정에 직접 반영되는 특성상, 일반 직원 대상 진단 대비 훨씬 높은 정확도와 일관성이 요구됐음. 피진단자가 임원급인 만큼 채점 기준의 모호함이나 결과 오류는 허용되지 않는 환경이었으며, 147명 전원에 대해 동일한 품질 기준을 유지하는 것이 핵심 과제였음.
             이를 위해 발화 데이터 수집부터 AI 채점, 결과 검증, 리포트 생성까지의 전 단계를 정의한 채점 워크플로우를 직접 설계하고 10건 이상의 케이스에 반복 적용하며 안정성을 검증했음. 채점 일관성 확보를 위해 동일 발화에 대한 AI 모델 간 결과 편차를 모니터링하고, 기준값 이상의 편차 발생 시 재채점 루프가 작동하도록 설계했음. 리포트 자동화는 Apps Script 기반으로 구축했음. 내부 AI 툴에서 생성된 채점 결과 및 코멘트를 Export하여 피진단자별 데이터 슬롯에 자동 매핑하고, 최종 PDF로 변환·출력되는 파이프라인을 설계했음.
@@ -296,7 +295,7 @@ projects:
             -  [<u>[PPT] Samsung_ad_PoC</u>](https://docs.google.com/presentation/d/1dDnRib945di0b807KQ7pyAX8_gzIlTReCLa-HHR1fVU/edit?usp=sharing)
             -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1OICXoLQvxIHGPGxLgziD3tW2zUAnLNZI/view?usp=sharing)
       
-      - title: 클라썸(Telta AI) | Trade AI&#58; Revolutionizing Access to U.S. trade administration
+      - title: 클라썸(Telta AI) | 국내 통신 대기업 - PO 역량 (사전·사후 비교) 진단 운영 및 자동화
         tagline: | 
             고객사는 PO(Product Owner) 직군을 대상으로 육성 프로그램 도입 전·후의 역량 변화를 객관적 수치로 비교·검증하고자 했음. 정성적 피드백에 의존하던 기존 방식으로는 육성 효과를 정량적으로 입증하기 어려웠으며, 이를 데이터 기반으로 증명할 수 있는 진단 체계가 필요한 상황이었음.
             운영 과정에서 발생하는 비효율을 해소하기 위해 인터뷰어와 피진단자 간의 일정 조율을 자동화하는 AI 기반 도구를 직접 제작했음. 인터뷰 녹음 파일을 전달받은 후 내부 STT 변환 툴과 연동하여 텍스트로 변환하고, AI 채점 모델을 통해 역량별 점수를 산출했으며, 점수 계산 스크립트를 설계하여 사전·사후 결과를 정량적으로 비교할 수 있는 리포트를 최초로 설계·딜리버리했음. 회사 내에 전례가 없던 사전·사후 비교 리포트 형태를 처음으로 구현한 사례로, 이후 동일 포맷이 타 프로젝트의 표준으로 활용됐음.
@@ -306,31 +305,22 @@ projects:
             -  [<u>[Table] Qualitative evaluation for trade AI</u>](https://docs.google.com/spreadsheets/d/18-tnpUWg0VXfrWvEcGOkj-Ok70jKF7yTTF02zg9VGBE/edit?usp=sharing)
             -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1y92ypQ7xa6eV9b1bgIRv6FO7F7fdbK4b/view?usp=sharing)
             
-      - title: 클라썸(Telta AI) | Empowering Security Policy Analysis with AI
+      - title: 클라썸(Telta AI) | 파트너사 연계 프로젝트 - 글로벌 제조 역량 진단 (AI-GTA) 운영 및 자동화 
         tagline: | 
-            Reviewing and improving corporate security policies and guidelines is a challenging process that often leads to inconsistent quality based on the reviewer's
-            expertise. Our innovative tool leverages Large Language Models to analyze security policies with consistent performance and accuracy. By utilizing KPMG's
-            extensive database of over 300 security-related resources and AI-powered web searches, we comprehensively review policies to identify missing elements and
-            ensure alignment with the latest security trends. The system delivers rapid, precise assessments while maintaining uniform quality standards regardless of
-            the complexity of the security framework. Additionally, we provide an intuitive chatbot service that allows users to ask questions based on the analysis 
-            results, making security policy management more efficient and effective.
+            텔타 최초의 파트너십 모델로 진행된 프로젝트로, 파트너사(캐럿글로벌)가 영업·현장 운영을 담당하고 텔타는 글로벌 제조 역량 진단 솔루션(AI-GTA)을 납품하는 구조였음. 고객사–파트너사–텔타 간 3자 이해관계를 조율하는 것이 핵심 과제였으며, 파트너사가 텔타 제품을 독립적으로 운영할 수 있도록 운영 가이드 및 FAQ를 직접 설계하여 전달했음. 
+            가이드는 "파트너사가 자체적으로 처리할 수 있는 항목"과 "텔타에 요청해야 하는 항목"을 명확히 구분하는 두 컬럼 구조로 제작하여 불필요한 커뮤니케이션 비용을 최소화했음.대표 운영 사례로 글로벌 자동차 부품 대기업 100명 대상 역량 진단을 운영했음. 식품·담배 제조 대기업 대상으로는 영문·인도네시아어 다국어 진단을 설계·운영했으며, 언어 간 채점 기준 일관성 확보를 위해 진단 과제·리포트·전처리 프로세스 전반을 영문화했음. 단순 번역이 아니라 AI 채점 모델이 영문 발화 데이터를 동일한 기준으로 평가할 수 있도록 채점 파이프라인 전체를 다국어 환경에 맞게 재설계했음.
+            또한 파트너사가 진단 현황을 독립적으로 모니터링할 수 있도록 제품팀과 협업하여 채널별 기능을 개발했음. 루브릭 6건을 고도화하고 채점 워크플로우를 10개 이상의 태스크 단위로 세분화하여 안정성과 재사용성을 높였음. 
+            루브릭 고도화 과정에서는 역할을 기능별로 분리하여 최적 AI 모델을 선정하는 실험을 진행했음. 점수 채점에 특화된 모델과 코멘트 문구 생성에 특화된 모델을 각각 별도로 테스트하고 성능을 비교하여, 기능별로 최적 모델을 선정하는 구조로 파이프라인을 재설계했음. 단일 모델로 채점과 문구 생성을 동시에 처리하던 방식 대비 채점 정확도와 문구 품질을 동시에 끌어올릴 수 있었음.
         details: |
             -  [<u>[Video] Security Policy Analysis Tool&#58; Powered by AI</u>](https://drive.google.com/file/d/1jQsCxqj_f1y3KY931r1e8algTwl_1Zc2/view?usp=sharing)
-      # - title: 클라썸(Telta AI) | Transforming Industries with AI&#58; A Comprehensive AI Platform
-      #   tagline: | 
-      #       We are currently engaged in the development of a comprehensive AI platform that integrates cutting-edge technologies such as chatbot, data visualization, and specialized data analysis 
-      #       for the manufacturing sector. Our chatbot system is designed to handle queries across a wide range of domains, providing accurate and context-aware responses. 
-      #       The visualization system identifies user intent through conversational input and presents relevant charts using various visualization tools.
-      #       Through this platform, we aim to deliver a robust solution that addresses diverse industry needs while driving efficiency and innovation.
-      #   details: |
-      #       -  [<u>[Video] Data visualization</u>](https://youtu.be/RDYqC5ViCRI)
-      #       -  [<u>[Video] Data Analysis</u>](https://youtu.be/Eoj_QL1UYDQ)
             
-      - title: 카카오(Kakao) | 산업/트렌드/정책 동향 연구 
+      - title: 클라썸(Telta AI) | 국내 대형 뷰티 리테일 기업 전사 승진 평가 운영 및 자동화
         tagline: | 
-            Large language model(LLM) for Korean specialized in high-performance retrieval-augmented generation(RAG) system is very rare. We created Korean LLM specialized for RAG using Orion-14B as a foundation model. 
-            A total of 800,000 data were selected from the AI hub. This data was refined and GPT-4 was used to create 8,000 high-quality RAG training data.
-            We used data distributed parallel(DDP) to train multiple A100 GPUs in parallel and utilized the low-rank adaptation of large language models(LoRA).
+            직군·직무별 스킬셋 정의부터 역량 진단 수행, 리포트 발행까지 전 과정을 A to Z로 진행한 텔타 최초의 완전 통합 운영 사례임. 진단 세팅이 필요한 시점에 제품 자체가 미완성 상태였으나 일정을 지연할 수 없는 상황이었음. 점수 자동 계산, 선지 랜덤 배치, 문항 세팅 등 미개발 기능들을 자동화하거나 수작업으로 보완하며 프로젝트를 완료했음.
+            Apps Script를 직접 작성하여 진단 세트 120건의 세팅을 자동화했음. 당시 제품은 서베이 제출 후 점수가 자동 산출되지 않고 선지 데이터만 출력되는 상태였으며, 직군·직급·연차별로 문항과 배점이 상이한 복잡한 구조를 Master Map으로 정의하고 이를 코드로 구현하여 점수 산출 스크립트를 직접 제작했음. 이 로직은 이후 제품팀과 공유하여 정식 기능으로 내재화됐음.
+            제품팀과의 협업은 Bug 채널, Cowork 채널, 월 1회 Monthly 스크럼을 통해 정기적으로 진행했음. 고객사 VOC를 정확히 전달하기 위해 현장 이슈를 체계적으로 기록·정리하여 제품 개선 Input으로 제공했으며, 피드백 루프를 통해 제품 고도화에 지속적으로 기여했음.
+            리포트 템플릿과 서베이 단독 진단 운영 파이프라인을 직접 설계했으며, 이는 이후 다수 프로젝트의 초기 구조로 활용되어 제품화 및 자동화의 기반이 됐음. 제품이 완성되지 않은 상황에서도 운영을 완수하고, 그 과정에서 도출된 로직과 구조가 제품 자산으로 전환된 사례로, 현장 운영과 제품 개발 간의 피드백 루프를 직접 설계·실행했음.
+
         details: |
             -  [<u>[PPT] Building a RAG system specialized for Korean in closed network</u>](https://docs.google.com/presentation/d/16MwlVt9q-y66UzTJpu8qd78cAQTPR9NWt-0e4M75fXc/edit?usp=sharing)
             -  [<u>[Table] Qualitative evaluation after fine-tuning LLM for RAG</u>](https://docs.google.com/spreadsheets/d/18-tnpUWg0VXfrWvEcGOkj-Ok70jKF7yTTF02zg9VGBE/edit?usp=sharing)
