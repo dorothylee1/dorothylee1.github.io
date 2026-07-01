@@ -128,15 +128,15 @@ career-profile:
 #      Unlike this, I previously studied causal analysis. Analyze time-series sensor data using causal techniques such as matching and CCM(Convergent Cross Mapping).
       
 education:
-    - degree: Data Science (M.S.)
+    - degree: Business Technology and Management(기술경영) (M.S.)
       university: KAIST | Korea Advanced Institute of Science and Technology
-      time: 2020 - 2022
+      time: 2022 - 2024
       details: |
-        Interactive Computing Lab advised by Uichin Lee
-    - degree: Mathematics and Statistics (B.A.)
+        Quant-Marketing advised by Hyejin Kim
+    - degree: Business Management & Communications (B.A.)
       university: HGU | Handong Global University
-      time: 2014 - 2020
-      details: |
+      time: 2019 - 2022
+      details: | Summa Cum Laude (수석 조기 졸업)
 
 
 experiences:
