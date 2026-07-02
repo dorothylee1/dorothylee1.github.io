@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Yongshin Kim
-url: 'https://yong-shin.github.io/'
+title: Shin Hyung Lee
+url: 'https://dorothylee1.github.io/'
 baseurl: '/' #change it according to your repository name
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
