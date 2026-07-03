@@ -375,10 +375,12 @@ projects:
 publications:
     title: Awards
     papers:
-      - title: [대상] KAIST Case Competition
+      - title: <u>[대상] KAIST Case Competition</u>
+        link: "assets/pdf/The Effect of Intellectual Property-Based Startups on Employment.pdf"
         authors: KAIST 경영대학
         conference: 13개 팀 중 대상 수상. PM으로서 전공이 다른 팀원들의 강점을 살린 역할 재조정을 주도했음. C-level 임원 인터뷰와 300건 이상의 문헌 분석을 통해 고피자의 DX 성과를 정량화했으며, 초기 투자 비용 3천만원 절감, 인건비·교육비·손실률 50% 절감 수치를 도출했음. VRINE 모델, 전후방통합 모델을 적용해 글로벌 진출 전략을 분석한 결과물은 이후 KAIST 기술경영 강좌의 DX 전략 학습 교재로 채택됐음.
-      - title: [최우수상] 세종컨설팅그룹 체인베스트 대학생 토큰 기획 공모전
+      - title: <u>[최우수상] 세종컨설팅그룹 체인베스트 대학생 토큰 기획 공모전</u>
+        link: "assets/pdf/The Effect of Intellectual Property-Based Startups on Employment.pdf"
         authors: 세종컨설팅그룹
         conference: 최우수상 수상. NFT 시장이 일시적 열풍을 넘어 실질적 투자 구조로 확장될 수 있는 방안을 제시했음. NFT 조각화 기능과 DeFi의 이자 배당 구조를 결합하여, 고가 NFT를 여러 조각으로 분할하고 예치 시 플랫폼 수익 기반의 이자를 배당하는 투자형 구조를 설계했음. 재판매 수익을 조각 보유자에게 비율 배분하고, 거래 수수료·광고·렌탈 등 플랫폼 수익모델과 연계하는 구조로 유동성과 투자 가치를 동시에 확보했음. NFT 투자자 그룹 대상 수익 창출형 메시지 전략과 Web3 입문자 대상 온보딩 캠페인을 설계하고, 인플루언서 기반 콘텐츠 마케팅 전략을 종합 제안했음. 기술 구조를 시장성과 연결하는 기획 역량을 실전에서 검증했음.
       - title: <u>The Effect of Intellectual Property-Based Startups on Employment</u>
