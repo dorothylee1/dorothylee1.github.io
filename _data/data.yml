@@ -371,6 +371,37 @@ projects:
             본인은 전통 완성차 업체와 테슬라·구글 등 후발 진입자의 케이스 스터디를 중심으로 자료조사를 담당했음. 각 기업의 R&D 기술 발전 동향과 새로운 비즈니스 모델을 비교·분석하고, 타산업과의 융합 현황을 정리하여 전략적 임플리케이션을 도출했음. 전기차 부문(32.4%), 자율주행 부문(22.8%), 레거시 부문(33.4~44.7%)으로 가치사슬 변화를 구조화하고, 기계 산업에서 기계·화학·전자 3대 산업의 융합산업으로의 전환 흐름을 정리했음. 자동차 부품군별 발전 가능성 데이터를 활용하여 레거시·전기·자율주행 부문별 경쟁력 전망을 도출했으며, 경쟁 현황·전략적 대응 방식·정책적 지원의 우선순위를 제언하는 최종 보고서 작성에 기여했음.
         details: |
             -  [<u>급진적 혁신에서 살아남기: 자동차 산업의 기술 패러다임 변화와 한국의 대응 전략</u>](https://www.stepi.re.kr/site/stepiko/report/View.do;jsessionid=46C201F0236BED22BF9252D577CC1B4E?cbIdx=1292&reIdx=1042&cateCont=A0201)
+
+awards:
+    title: Awards & Competitions
+    list:
+      - name: KAIST Case Competition | 푸드테크 기업 고피자 디지털 전환 사례 분석
+        date: 2023.11
+        awarder: KAIST 경영대학
+        link: ""
+        tagline: |
+            13개 팀 중 대상 수상. PM으로서 C-level 임원 인터뷰와 300건 이상의 문헌 분석을 통해 고피자의 DX 성과를 정량화했음. 초기 투자 비용 3천만원 절감, 인건비·교육비·손실률 50% 절감 수치를 도출했으며, VRINE 모델, 전후방통합 모델 등을 적용해 글로벌 진출 전략을 분석했음. 결과물은 이후 KAIST 기술경영 강좌의 DX 전략 학습 교재로 채택됐음.
+
+      - name: 세종컨설팅그룹 체인베스트 대학생 토큰 기획 공모전
+        date: 2022.04
+        awarder: 세종컨설팅그룹
+        link: ""
+        tagline: |
+            최우수상 수상. [내용 추가]
+
+      - name: UNESCO UNITWIN 지속가능성을 위한 신제품 기획 경쟁 대회
+        date: 2021.04
+        awarder: UNESCO UNITWIN
+        link: ""
+        tagline: |
+            스페셜상 수상. [내용 추가]
+
+      - name: UNESCO UNITWIN 소셜벤처 비즈니스 플랜 경진대회
+        date: 2020.10
+        awarder: UNESCO UNITWIN
+        link: ""
+        tagline: |
+            1위 수상. [내용 추가]
             
 publications:
     title: Publications
