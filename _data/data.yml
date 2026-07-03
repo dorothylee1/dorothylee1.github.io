@@ -386,16 +386,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 95%
+      - name: Google App Scripts
+        level: 90%
 
-      - name: SQL
+      - name: n8n
+        level: 85%
+
+      - name: Google Sheets/Excel
         level: 70%
 
-      - name: R
-        level: 70%
-
-      - name: SPSS & AMOS
+      - name: JavaScript/HTML
         level: 50%
 
       - name: STATA
