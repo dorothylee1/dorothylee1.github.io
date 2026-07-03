@@ -23,10 +23,10 @@
         {% endif %}
       </span>
       {% if award.date %}
-      <span class="project-tagline"> | {{ award.date }} | {{ award.awarder }}</span>
+      - <span class="project-tagline">{{ award.date }} | {{ award.awarder }}</span>
       {% endif %}
       {% if award.tagline %}
-      <span class="project-tagline">{{ award.tagline }}</span>
+      <span class="project-tagline">{{ award.tagline | markdownify }}</span>
       {% endif %}
     </div><!--//item-->
   {% endfor %}
