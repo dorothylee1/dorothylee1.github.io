@@ -342,8 +342,9 @@ projects:
             VR 게임 산업이 빠르게 성장하고 있었으나, 기존 연구는 대부분 실험·설문 기반의 기술적 사용자 경험에 집중되어 있었음. 마케팅 관점에서 VR 게임의 실제 성공 요인을 실증적으로 분석한 연구는 거의 존재하지 않았으며, 이 연구 격차를 해소하고자 본 논문을 직접 설계하고 수행했음.
             사회적 존재 이론을 이론적 프레임워크로 설정하고, 두 개의 연구를 병행했음. 연구 1에서는 약 6만 7천 건의 실시간 사용자 트래픽 데이터를 수집·가공하여 계량경제모형으로 분석했음. 동시 플레이어 수, 라이브 스트리밍 시청자 수, 전체 VR 지원 여부, 360도 공간 활용을 핵심 변수로 설정하고, 이들이 게임 다운로드에 미치는 영향을 실증했음. 공간 변수에 대한 장르와의 상호작용 효과와 멀티플레이어 여부의 조절 효과도 함께 검증했음. 연구 2에서는 66만 건의 온라인 리뷰 데이터를 수집하고 LDA(Latent Dirichlet Allocation) 토픽 모델링을 적용하여 소비자 언급의 주요 주제를 추출했음. 분석 결과 '게임 메커닉스 및 디자인', '커뮤니티 및 사회적 상호작용', '플레이어 참여 및 즐거움', '인터랙티브 및 감각적 특성', '시각적·공간적 특성' 5개의 핵심 토픽이 도출됐음.
             계량경제모형과 LDA를 결합한 혼합 방법론으로 정량·정성 데이터를 동시에 분석하여, VR 게임의 성공이 기술적 완성도보다 사회적 연결감과 공간적 몰입감에 더 크게 좌우된다는 실증적 근거를 확보했음. VR·메타버스 시장을 공략하는 산업 이해관계자들에게 데이터 기반의 전략적 시사점을 제공하는 데 기여했음
+            
         details: |
-            -  [<u>Virtual Socialness: Determinants of VR Game Success, focusing on the social presence theory.</u>](https://drive.google.com/file/d/1_T2UU8aN3LVZaNNi0e_AwQ8mKIEJAEft/view?pli=1)
+            -  [<u>Virtual Socialness: Determinants of VR Game Success, focusing on the social presence theory</u>](https://drive.google.com/file/d/1_T2UU8aN3LVZaNNi0e_AwQ8mKIEJAEft/view?pli=1)
 
       - title: KAIST | 머신러닝·딥러닝 활용 빅데이터 분석 — 클라우드 펀딩 성공 예측 모델 분석
         tagline: | 
