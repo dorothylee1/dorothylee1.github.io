@@ -105,7 +105,7 @@ experiences:
         I am currently employed at KPMG as a machine learning engineer, focusing on the development of an AI platform that offers a range of AI technologies 
         such as Natural Language Understanding (NLU) and Natural Language Generation (NLG) to our clients.
         
-    - role: Researcher
+    - role: Research Assistant
       time: 2024.06 - 2025.03
       company: Kakao 정책팀
       details: |
@@ -130,13 +130,11 @@ experiences:
 #       details: |
 #         한동대학교 VIC(Vision in Calling) 스쿨 주관 "세상을 변화시키는 10대 프로젝트"의 멘토로 참여. 멘토로서 중고등학생들이 스스로 문제를 발굴하고 해결책을 제안하도록 도움을 줌.
 #         우수 프로젝트로 선정 됐으며, 한동대학교 총장상을 수여받음.
-    - role: Director
-      time: 2019.12 - 2020.07
-      company: Dep. of General Affairs, Student Government, HGU
+    - role: Business Development & Marketing Intern
+      time: 2022.06 - 2022.12
+      company: Shard Partners LLC.
       details: |
-        I worked as a general affairs director in the student government. I managed a budget of about 100 million won for student expenses and established and 
-        executed a large and small project funding plan. I also improved the maintenance and update of organizational documents, implementation of all necessary 
-        policies, and policies and procedures related to human resources.
+        NFT 시장 동향을 분석하고 소비자 참여 전략을 평가하여 디지털 자산 생태계에서의 브랜드 마케팅 전략을 수립했음. 6개 글로벌 NFT 커뮤니티에 직접 참여하여 게시물·댓글 크롤링으로 소비자 반응을 분석하고, 주요 NFT 판매 사이트의 경쟁사 상품 및 가격을 비교 분석했음. 이를 바탕으로 'Invisible Signature' 기술이 접목된 Phygital 후드티를 신제품으로 선정하고, 팬덤 문화에 익숙한 1020 타깃을 대상으로 STP 및 4P 마케팅 전략을 기획하여 국내외 크라우드펀딩 프로젝트로 연결했음.
 #        총학생회 총무국장 수행. 1억원 정도의 학생경비 예산을 운영 했으며, 이 과정에서 크고 작은 사업 자금 계획을 수립 및 집행했음. 
 #     - role: Researcher
 #       time: 2019.08 - 2020.02
@@ -148,53 +146,14 @@ experiences:
 #       company: Residential College of International Dormitory, HGU
 #       details: |
 #        학생 기숙사 관리자. 각종 이벤트 진행
-    - role: Data Analyst
-      time: 2018.08 - 2020.07
-      company: Technological entrepreneurship Lab, HGU
+    - role: HR Program Operation Assistant
+      time: 2022.01 - 2022.02
+      company: SK C&C
       details: |
-        As an undergraduate researcher, I worked at the Technological entrepreneurship Lab supervised by Doohee Chung for data analysis.
-        As a data analyst, I participated in various projects related to Technological Entrepreneurship. 
-        In particular, I used a number of statistical techniques, including hierarchical regression, to analyze moderating effects, mediating effects, etc. 
-        through SPSS, STATA, and AMOS.
+        2022년 공채 신입사원 교육 프로그램의 기획 및 운영을 지원했음. 온오프라인 하이브리드 환경에 최적화된 교육 자료를 직접 제작했으며, 기업 가치와 운영 절차를 반영한 인터랙티브한 온보딩 콘텐츠를 구성했음. 
+        신입사원들이 조직 문화와 업무 프로세스를 효과적으로 습득할 수 있도록 체계적인 교육 환경을 설계하는 데 기여했음.
 #        학부 연구원으로 Technological entrepreneurship Lab advised by Prof. Doohee Chung에서 데이터 분석 업무를 수행함. 데이터 분석가로서 기술창업과 관련된 각종 프로젝트 참여함.
 #        특히, 통계 기법들을 활용해 조절효과, 매개효과 등을 SPSS, STATA, AMOS를 통해 분석하는 업무 수행. 관련 논문은 국내 등재지에서 최우수 논문상을 받기도 함.
-    - role: Operation Manager
-      time: 2018.03 - 2018.09
-      company: Handong English Camp, HGU
-      details: |
-        I worked as a general manager at an English camp for about 300 elementary and middle school students. I operated all the programs and other 
-        things related to the two-month camp schedule. From the camp preparation stage to the start and end of the camp, the whole process was in English.
-#        300명 정도의 초*중학생을 대상으로 2개월 동안 진행되는 캠프의 프로그램 매니저 역할 수행. 캠프 일정과 관련된 모든 프로그램 및 기타 사항들을 계획하고 운영함.
-#       또한 학생들을 보조하는 스태프들의 매니저로서, 캠프에 대한 전반적인 상황을 관리하고 총괄 역할을 수행함. 캠프 준비 단계부터 시작, 끝나는 단계까지 모든 과정은 영어로 진행됨.
-#     - role: Teaching Assistant
-#       time: 2018.03 - 2018.07
-#       company: HGU
-#       details: |
-#         경영 IT 실무 전공 수업 조교. advised by I-Soo Joe. 한 학기 동안 학생들에게 엑셀 강의 진행. 
-#     - role: Teaching Assistant (Tutoring for foreigner)
-#       time: 2017.09 - 2017.12
-#       company: HGU
-#       details: |
-#         회계실무 전공 수업 조교. advised by Hyunmo Sung. 한 학기 동안 외국인 학생을 대상으로 튜터링 진행. 모든 수업은 영어로 진행 됐음.
-    - role: English Instructor
-      time: 2017.03 - 2017.11
-      company: Global Vision Christian School (GVCS)
-      details: |
-        I hosted an English class for about 100 elementary and middle school students at GVCS located in Sejong City, South Korea. 
-        Participated as an equivalent English instructor with 30 other native speakers. 
-        Also, I worked as an English interpreter for various events as well as conducted classes.
-#        한국 세종시에 위치한 GVCS 글로벌 선진학교에서 100명 정도의 초*중학생을 대상으로 영어 수업을 진행함. 30명의 다른 원어민 강사들과 함께 동등한 영어 강사로 참여했음. 
-#        수업 뿐만 아니라, 각종 행사에 영어 통역사로 일하기도 함.
-        
-    - role: Accountant
-      time: 2017.03 - 2019.08
-      company: International freshmen orientation, HGU
-      details: |
-        I participated in the orientation for 200 foreign freshmen as an accountant for a total of 6 semesters.
-        I ran a budget of 30 million won each time and set up and implemented a program funding plan.
-        Since most of the staff are also foreigners, we communicated in English from the preparation process to the end of the orientation.
-#        매번 3천만원 규모의 예산을 운영 했으며, 프로그램 자금 계획을 수립 및 집행했음. 
-#        스태프들 또한 외국인이 대다수이기 때문에, 준비 과정부터 오리엔테이션이 끝날 때까지 영어로 소통하며 진행함.
 
 projects:
     title: Projects
@@ -356,7 +315,7 @@ publications:
         authors: CGNTV
         conference: 1위 수상. 기독 OTT 플랫폼 [퐁당]의 20대 크리스천 사용률이 낮다는 문제를 해결하기 위해 타깃 대상 인터뷰·설문을 직접 진행하여 인사이트를 도출했음. 20대가 공감할 고민을 에피소드별로 주제화한 웹드라마 + 패널 조언 형식의 콘텐츠 [고밍아웃]을 기획하고, IMC 통합마케팅캠페인 전략을 함께 제안했음. 1위 수상 이후 제안한 콘텐츠 포맷이 실제로 CGNTV에서 [고밍아웃]이라는 프로그램명으로 제작·방영됐음.
       - title: <u>[Special Awards] UNESCO UNITWIN 지속가능성을 위한 신제품 기획 경쟁 대회</u>
-        link: "https://www.youtube.com/playlist?list=PLKWaBw98ldzPVCaUchsRVUIeENOZog1eI"
+        link: "https://www.handong.edu/eng/global/projects/unitwin/"
         authors: UNESCO UNITWIN
         conference: 몽골 자브항 지역의 지속가능한 관광을 위한 신제품 개발 프로젝트에서 스페셜 상 수상. 현지 인프라 및 자원을 활용한 관광패키지 개발 및 운영안 제안. 몽골 현지 학생 대상 Business Model Canvas, Field Research 영어 강의 진행.
 
