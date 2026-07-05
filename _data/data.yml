@@ -15,7 +15,7 @@ sidebar:
     email: cindynlee0916@gmail.com
 #     phone: 010 2729 4727
     website:
-    linkedin: Yongshin-Kim
+    linkedin: shin-hyung-lee-884762232
 #   github: yong-shin
     facebook: 
     instagram:
@@ -52,7 +52,7 @@ sidebar:
       - item: AI Transformation
         link:
             
-      - item: AX Consulting
+      - item: AX Management
         link:        
 
 #       - item: <p align=right><br><br>Updated 31 Oct, 2021</p>
@@ -74,20 +74,6 @@ studies:
             - [<u>창업브랜드 빈둥 온라인 유형 검사</u>](https://smore.im/quiz/UFvmIL8ar8)
             - [<u>창업브랜드 빈둥 스마트스토어</u>](https://smartstore.naver.com/been-doing/products/9464903247)
             
-      - title: <b>Fun</b>
-        tagline: | 
-            Areas that I study and find fascinating when I have free time.
-        details: |
-            - [<u>Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
-            - [<u>Crawling</u>](https://docs.google.com/presentation/d/1RvvWB5HnAyFCgbubnTNkv2v5t8OYS99k4Hri0rT8MqA/edit?usp=sharing)
-            - [<u>BGMGAN: Background Music Generative Adversarial Networks</u>](https://docs.google.com/presentation/d/15N6FO8-7WiFEnOOIonyd3FrsZKyXnLoUBMZM6iwYBFs/edit?usp=sharing)
-      - title: <b>Wiki</b>
-        tagline: | 
-            As an engineer, I gathered useful information for studying and collaborating with people.
-        details: |
-            - [<u>[Bitbucket] Tutorial</u>](https://invented-field-fa2.notion.site/Bitbucket-Tutorial-ee6ca863fa1c403ca586e2c2b4c7a8d8?pvs=4) 
-            - [<u>[Backend] Django vs. Flask vs. FastAPI</u>](https://invented-field-fa2.notion.site/Backend-Django-vs-Flask-vs-FastAPI-cab6502c729b444183b33514db52b64e?pvs=4)
-            - [<u>[Backend] Gunicorn</u>](https://docs.google.com/presentation/d/1nRxdFlfs2IVzlTwC7C1r2L_F7B3QIxA7Un0Hn1nwd5o/edit?usp=sharing)
 
 career-profile:
     title: Welcome to Shin Hyung's page
@@ -112,16 +98,16 @@ education:
 
 
 experiences:
-    - role: Machine Learning Engineer
-      time: 2024.08 - Present
-      company: KPMG
+    - role: Project Delivery (Automation) Manager
+      time: 2025.05 - Present
+      company: 클라썸 (Telta AI)
       details: |
         I am currently employed at KPMG as a machine learning engineer, focusing on the development of an AI platform that offers a range of AI technologies 
         such as Natural Language Understanding (NLU) and Natural Language Generation (NLG) to our clients.
         
-    - role: Machine Learning Engineer
-      time: 2022.09 - 2024.08
-      company: Okestro
+    - role: Researcher
+      time: 2024.06 - 2025.03
+      company: Kakao 정책팀
       details: |
         I was working as a machine learning engineer studying NLP. Our team’s attention was directed towards generative models, particularly the utilization 
         of Retrieval-Augmented Generation to build a chatbot capable of responding to domain-specific queries. We were leveraging the langchain library to 
@@ -129,8 +115,8 @@ experiences:
         specific domain.
 
     - role: Researcher
-      time: 2020.08 - 2022.07
-      company: Interactive Computing Lab, KAIST
+      time: 2022.08 - 2024.08
+      company: Quant Marketing Lab, KAIST
       details: |
         I participated in Digital Therapeutics(DTx), Smart mask, Contact tracing projects. I focused on the DTx project to develop
         a platform that analyzes the effectiveness of digital treatments by studying and applying causal analysis techniques such as matching and CCM and also 
@@ -358,7 +344,7 @@ publications:
     title: Awards
     papers:
       - title: <u>[대상] KAIST Case Competition</u>
-        link: "assets/pdf/The Effect of Intellectual Property-Based Startups on Employment.pdf"
+        link: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7130114158280273921/"
         authors: KAIST 경영대학
         conference: 13개 팀 중 대상 수상. PM으로서 전공이 다른 팀원들의 강점을 살린 역할 재조정을 주도했음. C-level 임원 인터뷰와 300건 이상의 문헌 분석을 통해 고피자의 DX 성과를 정량화했으며, 초기 투자 비용 3천만원 절감, 인건비·교육비·손실률 50% 절감 수치를 도출했음. VRINE 모델, 전후방통합 모델을 적용해 글로벌 진출 전략을 분석한 결과물은 이후 KAIST 기술경영 강좌의 DX 전략 학습 교재로 채택됐음.
       - title: <u>[최우수상] 세종컨설팅그룹 체인베스트 대학생 토큰 기획 공모전</u>
@@ -369,6 +355,12 @@ publications:
         link: "https://www.youtube.com/playlist?list=PLKWaBw98ldzPVCaUchsRVUIeENOZog1eI"
         authors: CGNTV
         conference: 1위 수상. 기독 OTT 플랫폼 [퐁당]의 20대 크리스천 사용률이 낮다는 문제를 해결하기 위해 타깃 대상 인터뷰·설문을 직접 진행하여 인사이트를 도출했음. 20대가 공감할 고민을 에피소드별로 주제화한 웹드라마 + 패널 조언 형식의 콘텐츠 [고밍아웃]을 기획하고, IMC 통합마케팅캠페인 전략을 함께 제안했음. 1위 수상 이후 제안한 콘텐츠 포맷이 실제로 CGNTV에서 [고밍아웃]이라는 프로그램명으로 제작·방영됐음.
+      - title: <u>[Special Awards] UNESCO UNITWIN 지속가능성을 위한 신제품 기획 경쟁 대회</u>
+        link: "https://www.youtube.com/playlist?list=PLKWaBw98ldzPVCaUchsRVUIeENOZog1eI"
+        authors: UNESCO UNITWIN
+        conference: 몽골 자브항 지역의 지속가능한 관광을 위한 신제품 개발 프로젝트에서 스페셜 상 수상. 현지 인프라 및 자원을 활용한 관광패키지 개발 및 운영안 제안. 몽골 현지 학생 대상 Business Model Canvas, Field Research 영어 강의 진행.
+
+
 
 skills:
     title: Skills &amp; Proficiency
