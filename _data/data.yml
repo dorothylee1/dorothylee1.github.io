@@ -102,25 +102,19 @@ experiences:
       time: 2025.05 - Present
       company: 클라썸 (Telta AI)
       details: |
-        I am currently employed at KPMG as a machine learning engineer, focusing on the development of an AI platform that offers a range of AI technologies 
-        such as Natural Language Understanding (NLU) and Natural Language Generation (NLG) to our clients.
+        AI 기반 HR 역량 진단 솔루션을 엔터프라이즈 고객사에 end-to-end로 딜리버리하며 신사업을 고도화했음. 10여 개 대기업 고객사 누적 3,500명+ 진단 운영, 오류 0건. n8n 기반 자동화 파이프라인 구축으로 리포트 생성 시간 98% 단축. 신사업 론칭 8개월 만에 2자리 억대 매출 달성(직접 기여 18%). 직접 기획한 Interview Pro는 상용 제품으로 전환, 출시 1개월 만에 가입자 200명 돌파.
         
     - role: Research Assistant
       time: 2024.06 - 2025.03
       company: Kakao 정책팀
       details: |
-        I was working as a machine learning engineer studying NLP. Our team’s attention was directed towards generative models, particularly the utilization 
-        of Retrieval-Augmented Generation to build a chatbot capable of responding to domain-specific queries. We were leveraging the langchain library to 
-        simplify this process. Furthermore, we were engaged in a project aimed at fine-tuning an open-source GPT model like llama to acquire expertise in our 
-        specific domain.
+        글로벌 테크 기업의 AI·플랫폼·규제 동향을 분석하여 계열사 사업 전략 수립을 지원했음. 보고서 템플릿 4종 개발 및 NLP·텍스트 마이닝 기반 분석 프로세스 도입으로 분석 소요 시간 50% 단축, 총 80건 전략 보고서 발행. 해당 프로세스를 기반으로 사내 동향 & 인사이트 TF 신설에 기여했음.
 
     - role: Researcher
       time: 2022.08 - 2024.08
       company: Quant Marketing Lab, KAIST
       details: |
-        I participated in Digital Therapeutics(DTx), Smart mask, Contact tracing projects. I focused on the DTx project to develop
-        a platform that analyzes the effectiveness of digital treatments by studying and applying causal analysis techniques such as matching and CCM and also 
-        developing algorithms and interactive visualization platforms that use human biometric data to predict stress levels.
+        퀀트 마케팅은 계량경제학·통계·빅데이터 분석을 활용해 소비자 행동을 과학적으로 분석하고, AI·메타버스 등 신기술이 시장에 미치는 영향을 실증하는 학문임. 계량경제모형과 LDA 토픽 모델링을 결합한 혼합 방법론으로 VR 게임 산업의 성공 요인을 실증 분석한 연구를 수행함.
 #        데이터 분석가로서 DTx, 스마트 마스크, 밀접 접촉 프로젝트를 진행했습니다. 현재는 DTx 프로젝트에 전념해서,
 #        매칭, CCM 등의 인과분석 테크닉을 공부하고 적용하여 관측 센서 데이터를 활용해 디지털 치료제의 효과를 분석하는 플랫폼을 개발 중임.
 #        또한, 인간의 생체 데이터를 활용해 스트레스 정도를 예측하는 알고리즘 및 인터렉티브 가시화 플랫폼 개발.
