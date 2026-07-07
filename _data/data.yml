@@ -261,17 +261,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Google App Scripts
+      - name: MS Office
         level: 90%
 
-      - name: n8n
+      - name: AI/LLM
         level: 85%
 
-      - name: Google Sheets/Excel
+      - name: 자동화(n8n)
         level: 70%
 
-      - name: JavaScript/HTML
-        level: 50%
+      - name: 데이터 분석(Python,Java Script)
+        level: 70%
 
       - name: STATA
         level: 50%
