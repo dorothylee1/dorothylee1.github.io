@@ -166,6 +166,7 @@ projects:
         details: |
             -  [<u>Telta InterviewPro 제품</u>](https://interviewpro.telta.ai)
             -  [<u>Telta InterviewPro 소개 페이지</u>](https://www.telta.ai/interview-pro)
+            -  [<u>Telta InterviewPro 리포트 예시</u>](https://drive.google.com/file/d/1YYMbpheQq4D599Oq7F2sfuR-1B4bGyU4/view?usp=sharing)
             
       - title: 클라썸(Telta AI) | 전사 직무 역량 AX 진단 운영 및 프로세스 자동화
         tagline: | 
@@ -175,9 +176,8 @@ projects:
             - 국내 대형 반도체 장비기업 · 1,350명 · 2026년 2배 규모 리커링 확보. PRD 작성→파일럿→기능 내재화 전 사이클 주도. App Script Master Map 기반 점수 자동화, AI 성장 가이드·교육과정 자동 매칭 설계 후 제품 기능으로 내재화.
             - 국내 대형 뷰티 리테일 기업 · 500명 · 제품 미완성 상태에서 딜리버리 완료 Apps Script로 세팅·점수 산출/분석 자동화 직접 구현 → 해당 로직 제품 정식 기능 채택.
             - 국내 통신 대기업 PO 역량 사전·사후 비교 · 30명 · 리커링 계약으로 이어짐. 사내 최초 사전·사후 비교 리포트 포맷 설계 → 이후 타 프로젝트 표준으로 채택.
-            - 글로벌 HR 파트너사 '캐럿글로벌' 연계 제조 역량 진단 · 150명+ · 텔타 최초 파트너십 모델영문·인도네시아어 다국어 채점 파이프라인 재설계. 채점·문구 생성 특화 모델 분리 실험으로 정확도·품질 동시 향상.
-        details: |
-            -  [<u>진단 리포트 예시</u>](https://www.telta.ai/ai-literacy)
+            - 글로벌 HR 파트너사 '캐럿글로벌' 연계 제조 역량 진단 · 150명+ · 텔타 최초 파트너십 모델영문·인도네시아어 다국어 채점 파이프라인 재설계. 채점·문구 생성 특화 모델 분리 실험으로 정확도·품질 동시 향상
+            - [<u>B2B 마케팅 결과 리포트 예시</u>](https://drive.google.com/file/d/18U1wCiMjP-jrhpeq0jmDbv99dn4GZBoz/view?usp=sharing)
 
       - title: 클라썸(Telta AI) | 리더십 역량 AX 진단 운영 및 프로세스 자동화
         tagline: | 
@@ -186,7 +186,8 @@ projects:
         details: |
             - 국내 최대 공기업 리더십센터 · 300명+, 2,000부+ · 월 1천만원+ 리커링 · 본사 강연 초청. 28개 루브릭 설계 (~5만 줄), AI 모델 간 편차 통계 검증. n8n 파이프라인으로 50명 리포트 5분 내 생성. 누적 DB화·대시보드 제품 탑재.
             - 국내 최대 공기업 인재육성실 · 200~300명 · 5억 원 입찰 수주 기여. 3단계 QA 파이프라인 직접 설계 (Rule-based → LLM-as-a-Judge → Vision LLM Cross-validation). 리포트 완결성 99.9% 달성. 실제 운영 시나리오 데모 제작 후 입찰 수주에 직접 기여.
-            - 국내 대기업 그룹 연수원 신임 임원 · 147명, 300건. 임원급 인사 의사결정 직결 — Apps Script 자동 매핑→PDF 파이프라인 구축. 코치 1인 1일/건 → 147명 전원 2일 내 딜리버리. 인당 제작 시간 99% 단축.     
+            - 국내 대기업 그룹 연수원 신임 임원 · 147명, 300건. 임원급 인사 의사결정 직결 — Apps Script 자동 매핑→PDF 파이프라인 구축. 코치 1인 1일/건 → 147명 전원 2일 내 딜리버리. 인당 제작 시간 99% 단축.
+            - [<u>중간관리자(팀장) 결과 리포트 예시</u>](https://drive.google.com/file/d/11i-b1c3EskSbnMUJX-NIp1bCPrDqwUHD/view?usp=sharing)
     
       - title: 카카오(Kakao) | 국내외 IT 정책 및 산업 동향 분석 & 인사이트 발굴
         tagline: | 
